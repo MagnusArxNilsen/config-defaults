@@ -1,2 +1,2 @@
-# config-defaults
+# Config Defaults
 Better than nothing.
