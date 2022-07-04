@@ -1,2 +1,2 @@
 # Config Defaults
-Better than nothing.
+Little better than nothing.
